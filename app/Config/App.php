@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/ciberseguridad_ci4/';
+    public $baseURL = 'http://localhost/dga_ciberseguridad_ci4/';
 
     /**
      * --------------------------------------------------------------------------
