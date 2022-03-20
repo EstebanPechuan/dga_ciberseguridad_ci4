@@ -1,0 +1,25 @@
+@import url('fonts.css');
+@import url('componentes-css/variables.css');
+@import url('componentes-css/header-footer.css');
+@import url('componentes-css/home.css');
+@import url('componentes-css/nosotros.css');
+@import url('componentes-css/contacto.css');
+@import url('componentes-css/pilar-transparencia.css');
+@import url('componentes-css/departamentos.css');
+@import url('componentes-css/servicios.css');
+@import url('componentes-css/concientizacion.css');
+@import url('componentes-css/politicas.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'BrokmanRegular', 'verdana';
+}
+
+a,
+a::before,
+a::after {
+    text-decoration: none;
+    color: #000;
+}

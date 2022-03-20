@@ -1,0 +1,147 @@
+/* Desplegablaes */
+
+.politicas-select {
+    width: 100%;
+    padding: 20px 50px;
+
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.selects {
+    flex-basis: 300px;
+    flex-grow: 1;
+}
+
+.selects p {
+    margin-bottom: 10px;
+}
+
+.selects select {
+    width: 100%;
+    height: 40px;
+    padding: 0 10px;
+    font-size: 18px;
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+
+.selects.select-red p{
+    color: #A51622;
+}
+
+.selects.select-red select {
+    color: #A51622;
+    border: 1px solid #A51622 !important;
+}
+
+
+.alert-blue {
+    width: 100%;
+    padding: 20px 50px;
+}
+
+.alert-blue p {
+    width: 100%;
+    padding: 20px 30px;
+    background: #B2E0F0;
+    border-radius: 8px;
+    color: #000b;
+}
+
+
+/* .politicas-select .btn-filtrar {
+    flex-basis: 220px;
+    flex-grow: 1;
+} */
+
+.btn-fill-red {
+    min-width: 220px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 40px;
+    background: var(--color-1);
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.btn-fill-red.disable {
+    background: #ccc;
+}
+
+
+
+/* Tabla Politicas */
+
+.tabla-politicas {
+    width: 100%;
+    padding: 20px 50px;
+}
+
+.tabla-politicas h3 {
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.tabla {
+    width: 100%;
+    border: 2px solid #ddd;
+    background: #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.tabla-row {
+    min-height: 30px;
+    font-size: 20px;
+    
+    display: grid;
+    grid-template-columns: minmax(250px, 1fr) minmax(100px, 200px);
+    gap: 2px;
+}
+
+.tabla-row:nth-child(1) div {
+    font-family: var(--ff-bold) !important;
+}
+
+.tabla-row:nth-child(even) {
+    background: #E9EAEE;
+}
+
+.tabla-row:nth-child(odd) {
+    background: #fff;
+}
+
+.columna-1 {
+    padding: 10px 20px;
+
+    display: flex;
+    align-items: center;
+}
+
+.columna-2 {
+    border-left: 2px solid #ddd;
+    padding: 10px 20px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.columna-2 img {
+    display: block;
+}
+
+
+
