@@ -22,7 +22,7 @@
         </div>
 
         <div class="link">
-            <a href=" <?= base_url('servicios/sistemas') ?> ">
+            <a href="#c">
                 <h4>Auditoria de Incidentes Tecnológicos</h4>
                 <!-- <p>Requerimiento de nuevo desarrollo. (link a formulario de requerimiento en elaboración)</p> -->
                 <!-- <h5 href="#c">
@@ -86,7 +86,7 @@
         </div>
 
         <div class="link">
-            <a href=" <?= base_url('servicios/sistemas') ?> ">
+            <a href="#c">
                 <h4>Monitoreo y Relevamiento de Servicios</h4>
                 <!-- <p>Requerimiento de nuevo desarrollo. (link a formulario de requerimiento en elaboración)</p> -->
                 <!-- <h5 href="#c">
