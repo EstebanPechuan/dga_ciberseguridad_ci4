@@ -129,42 +129,42 @@
     <section class="links-utiles">
         <div class="link">
             <h4>Ministerio de Hacienda y Finanzas</h4>
-            <a href="#c">
+            <a href="https://hacienda.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Dirección Provincial de Informática</h4>
-            <a href="#c">
+            <a href="https://dpi.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Dirección de Gobierno Abierto</h4>
-            <a href="#c">
+            <a href="https://gobiernoabierto.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
-            <h4>Régimen Federal de Responsabilidad Fiscal</h4>
-            <a href="#c">
+            <h4> Test para identificar phishing</h4>
+            <a href="https://phishingquiz.withgoogle.com/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
         
         <div class="link">
             <h4>Digesto Administrativo</h4>
-            <a href="#c">
+            <a href="https://digesto.sanjuan.gob.ar/digesto/inicio3.php">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Consulta de  Comprobantes de Pago y Rentenciones</h4>
-            <a href="#c">
+            <a href="https://rentas.dgrsj.gob.ar/contribuyentes/index.asp">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
