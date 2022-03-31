@@ -23,24 +23,24 @@
     <section class="noticias-home">
         <div class="cards-noticias">
             <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia1.png') ?> " alt="Imágen de Noticia">
+                <div class="card-noti bg-gris">
+                    <img src=" <?php echo base_url('public/img/iconos-direcciones/que-hacemos.svg') ?> " alt="Imágen de Noticia">
                 </div>
                 <h4>Qué hacemos</h4>
                 <p>Ofrecemos soluciones para identificar, proteger, detectar y resolver incidentes de seguridad informática.</p>
             </div>
 
             <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia2.png') ?> " alt="Imágen de Noticia">
+                <div class="card-noti bg-gris">
+                    <img src=" <?php echo base_url('public/img/iconos-direcciones/servicios-compu.svg') ?> " alt="Imágen de Noticia">
                 </div>
                 <h4>Servicios</h4>
                 <p>Catálogo de Servicios provistos para realizar integraciones de sistemas e intercambio de información en  diferentes reparticiones.</p>
             </div>
 
             <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia3.png') ?> " alt="Imágen de Noticia">
+                <div class="card-noti bg-gris">
+                    <img src=" <?php echo base_url('public/img/iconos-direcciones/vision-compu.svg') ?> " alt="Imágen de Noticia">
                 </div>
                 <h4>Visión</h4>
                 <p>Construir un ámbito digital seguro dentro de la administración pública protegiendo los datos críticos que administra.</p>
@@ -129,42 +129,42 @@
     <section class="links-utiles">
         <div class="link">
             <h4>Ministerio de Hacienda y Finanzas</h4>
-            <a href="#c">
+            <a href="https://hacienda.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Dirección Provincial de Informática</h4>
-            <a href="#c">
+            <a href="https://dpi.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Dirección de Gobierno Abierto</h4>
-            <a href="#c">
+            <a href="https://gobiernoabierto.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
-            <h4>Régimen Federal de Responsabilidad Fiscal</h4>
-            <a href="#c">
+            <h4> Test para identificar phishing</h4>
+            <a href="https://phishingquiz.withgoogle.com/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
         
         <div class="link">
             <h4>Digesto Administrativo</h4>
-            <a href="#c">
+            <a href="https://digesto.sanjuan.gob.ar/digesto/inicio3.php">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Consulta de  Comprobantes de Pago y Rentenciones</h4>
-            <a href="#c">
+            <a href="https://rentas.dgrsj.gob.ar/contribuyentes/index.asp">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
