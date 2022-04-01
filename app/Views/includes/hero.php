@@ -1,7 +1,7 @@
 <section class="hero">
     <div class="">
-        <h2>Bienvenid@ a la</h2>
-        <h1>Dirección Provincial de Informática</h1>
+        <h2>Bienvenid@ a</h2>
+        <h1>Dirección de Ciberseguridad</h1>
     </div>
     <h3>Simple, Rápido y Fácil</h3>
 

@@ -95,8 +95,7 @@
     border: 2px solid #ddd;
     background: #ddd;
     border-radius: 8px;
-    overflow: hidden;
-
+    
     display: flex;
     flex-direction: column;
     gap: 2px;
@@ -125,6 +124,7 @@
 
 .columna-1 {
     padding: 10px 20px;
+    background: inherit;
 
     display: flex;
     align-items: center;
@@ -133,6 +133,7 @@
 .columna-2 {
     border-left: 2px solid #ddd;
     padding: 10px 20px;
+    background: inherit;
     
     display: flex;
     justify-content: center;
