@@ -9,7 +9,7 @@
 
     <section class="departamentos">
         <div class="depto-info" style="border: none; width: 100%;">
-            <h3>Gestión de Insidentes</h3>
+            <h3>Infraestructura Tecnológica</h3>
             <p>Este pilar busca generar un alojamiento en el cual residirán las aplicaciones e información referente al Gobierno de San Juan y los cuales proveen un servicio esencial a los Ciudadanos. A su vez cuenta con servicios propios dirigidos en su mayoría al empleado público y los cuales aportan un gran valor para la resolución periódica de las tareas.</p>
 
             <br>

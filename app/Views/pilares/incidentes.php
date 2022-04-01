@@ -9,7 +9,7 @@
 
     <section class="departamentos">
         <div class="depto-info" style="border: none; width: 100%;">
-            <h3>Gestión de Insidentes Organizacional</h3>
+            <h3>Gestión de Incidentes Organizacional</h3>
             <p>Con el objetivo de mantener estables los servicios de TI proporcionado por el Gobierno de San Juan es que contamos con procesos para ayudar ante los incidentes, fallos o errores en la infraestructura TI de Gobierno, poniendo énfasis en aquellos servicios tecnológicos que mejoran la calidad de vida del ciudadano.</p>
 
             <br>
