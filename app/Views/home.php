@@ -24,26 +24,32 @@
         <div class="cards-noticias">
             <div class="card-noticias">
                 <div class="card-noti bg-gris">
-                    <img src=" <?php echo base_url('public/img/iconos-direcciones/que-hacemos.svg') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/iconos-direcciones/que-hacemos.svg') ?> " alt="Imagen de Noticia">
                 </div>
-                <h4>Qué hacemos</h4>
-                <p>Ofrecemos soluciones para identificar, proteger, detectar y resolver incidentes de seguridad informática.</p>
+                <a href="#c" target="_blank">
+                    <h4>Qué hacemos</h4>
+                    <p>Ofrecemos soluciones para identificar, proteger, detectar y resolver incidentes de seguridad informática.</p>
+                </a>
             </div>
 
             <div class="card-noticias">
                 <div class="card-noti bg-gris">
-                    <img src=" <?php echo base_url('public/img/iconos-direcciones/servicios-compu.svg') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/iconos-direcciones/servicios-compu.svg') ?> " alt="Imagen de Noticia">
                 </div>
-                <h4>Servicios</h4>
-                <p>Catálogo de Servicios provistos para realizar integraciones de sistemas e intercambio de información en  diferentes reparticiones.</p>
+                <a href="<?= base_url('servicios') ?>" target="_blank">
+                    <h4>Servicios</h4>
+                    <p>Catálogo de Servicios provistos para realizar integraciones de sistemas e intercambio de información en  diferentes reparticiones.</p>
+                </a>
             </div>
 
             <div class="card-noticias">
                 <div class="card-noti bg-gris">
-                    <img src=" <?php echo base_url('public/img/iconos-direcciones/vision-compu.svg') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/iconos-direcciones/vision-compu.svg') ?> " alt="Imagen de Noticia">
                 </div>
-                <h4>Visión</h4>
-                <p>Construir un ámbito digital seguro dentro de la administración pública protegiendo los datos críticos que administra.</p>
+                <a href="#c" target="_blank">
+                    <h4>Visión</h4>
+                    <p>Construir un ámbito digital seguro dentro de la administración pública protegiendo los datos críticos que administra.</p>
+                </a>
             </div>
     </section>
 
@@ -52,7 +58,7 @@
         <div class="cards-noticias">
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia1.png') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/noticias/noticia1.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Paso que tiene que dar ante una filtración de datos</h4>
                 <p>Las filtración de datos es uno de los peores problemas a los que se puede enfrentar una empresa. En primer lugar, porque supone q..</p>
@@ -61,7 +67,7 @@
 
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia2.png') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/noticias/noticia2.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Ciberataque detiene la producción de troyota</h4>
                 <p>La fragilidad en la cadena de suministros y la producción de vehículos ha vivido uno de sus mayores ejemplos: todas las fábricas ...</p>
@@ -70,7 +76,7 @@
 
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia3.png') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/noticias/noticia3.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Chat internos del ransomware Conti se filtran en línea después de declarar su apoyo a la invación Rusa</h4>
                 <p>Los registros del chat pertenecientes al grupo de ransomware Conti se filtró en línea gracias a una aparente fuente interna, q.. </p>
@@ -79,7 +85,7 @@
 
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia4.png') ?> " alt="Imágen de Noticia">
+                    <img src=" <?php echo base_url('public/img/noticias/noticia4.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Ciberguerra Ucrania-Rusia: Los Frentes Digitales</h4>
                 <p>Por David Salces Guillem La incursión del ejército ruso en territorio ucraniano, a finales de la semana pasada, marcó e...</p>
@@ -90,39 +96,47 @@
 
     <section class="cards-home-tramites">
         <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/folder.png') ?> " alt="Icono Carpeta">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Consultas de Expedientes</h3>
-            </div>
+            <a href="https://sanjuan.gob.ar/#dnwvZ29iaWVybm8vc2VydmljaW9zL2V4cGVkaWVudGVzL3MvX2ZfMkIzMzFDQzM0RDM0NEMzMTg3NURFRDVFMDUwNjBGQUEuaHRtbHxfdmFsaWRhY2lvbmVzfHx8fA==" target="_blank">
+                <div class="card-home-img">
+                    <img src=" <?php echo base_url('public/img/iconos/folder.png') ?> " alt="Icono Carpeta">
+                </div>
+                <div class="card-home-titulo">
+                    <h3>Consulta de Expedientes</h3>
+                </div>
+            </a>
         </div>
 
         <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/hands.png') ?> " alt="Icono Manos">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Trámites</h3>
-            </div>
+            <a href="#c" target="_blank">
+                <div class="card-home-img">
+                    <img src=" <?php echo base_url('public/img/iconos/hands.png') ?> " alt="Icono Manos">
+                </div>
+                <div class="card-home-titulo">
+                    <h3>Trámites</h3>
+                </div>
+            </a>
         </div>
 
         <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/chats.png') ?> " alt="Icono Conversación">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Consultas y solicitudes</h3>
-            </div>
+            <a href="#c" target="_blank">
+                <div class="card-home-img">
+                    <img src=" <?php echo base_url('public/img/iconos/chats.png') ?> " alt="Icono Conversación">
+                </div>
+                <div class="card-home-titulo">
+                    <h3>Consultas y solicitudes</h3>
+                </div>
+            </a>
         </div>
 
         <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/document-mouse.png') ?> " alt="Icono Documento">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Contrataciones</h3>
-            </div>
+            <a href="#c" target="_blank">
+                <div class="card-home-img">
+                    <img src=" <?php echo base_url('public/img/iconos/document-mouse.png') ?> " alt="Icono Documento">
+                </div>
+                <div class="card-home-titulo">
+                    <h3>Contrataciones</h3>
+                </div>
+            </a>
         </div>
     </section>
 

@@ -1,11 +1,10 @@
-<section class="hero">
+<section class="hero" style=" <?php if($hero == true) { echo 'display: block;';} else {echo 'display: none;';} ?>" >
     <div class="">
         <h2>Bienvenid@ a la</h2>
         <h1>Dirección de Ciberseguridad</h1>
     </div>
-    <h3>Simple, Rápido y Fácil</h3>
 
-    <form action="./index.html" method="POST">
+    <!-- <form action="./index.html" method="POST">
         <input type="text">
         <div class="home-hero-submit">
             <input type="submit" value="">
@@ -14,7 +13,7 @@
                 <i class='bx bx-search'></i>
             </div>
         </div>
-    </form>
+    </form> -->
 </section>
 
 <div class="nav-secundario">
@@ -29,3 +28,9 @@
         <li><a href="<?= base_url('contacto') ?>" class=" <?php if ($menu_activo === 'contacto') { echo 'li-active'; } ?> ">CONTACTO</a></li>
     </ul>
 </div>
+
+<script>
+    var auxi = document.querySelector('#nav-sec');
+    auxi.focus();
+    
+</script>
