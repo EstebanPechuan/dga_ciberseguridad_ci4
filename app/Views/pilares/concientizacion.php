@@ -16,57 +16,58 @@
         </div>
     </section>
 
-    <section class="concien-videos">
+    <!-- VIDEOS LOCALES -->
+    <!-- <section class="concien-videos">
         <div class="card-videos">
             <h4>Lorem ipsum</h4>
             <div class="video">
-                <video src="" poster=" <?php echo base_url('public/img/poster-video.png') ?> "></video>
+                <video src="" poster=" <?php //echo base_url('public/img/poster-video.png') ?> "></video>
             </div>
         </div>
 
         <div class="card-videos">
             <h4>Lorem ipsum</h4>
             <div class="video">
-                <video src="" poster=" <?php echo base_url('public/img/poster-video.png') ?> "></video>
+                <video src="" poster=" <?php //echo base_url('public/img/poster-video.png') ?> "></video>
             </div>
         </div>
 
         <div class="card-videos">
             <h4>Lorem ipsum</h4>
             <div class="video">
-                <video src="" poster=" <?php echo base_url('public/img/poster-video.png') ?> "></video>
+                <video src="" poster=" <?php //echo base_url('public/img/poster-video.png') ?> "></video>
             </div>
         </div>
 
         <div class="card-videos">
             <h4>Lorem ipsum</h4>
             <div class="video">
-                <video src="" poster=" <?php echo base_url('public/img/poster-video.png') ?> "></video>
+                <video src="" poster=" <?php //echo base_url('public/img/poster-video.png') ?> "></video>
             </div>
         </div>
 
         <div class="card-videos">
             <h4>Lorem ipsum</h4>
             <div class="video">
-                <video src="" poster=" <?php echo base_url('public/img/poster-video.png') ?> "></video>
+                <video src="" poster=" <?php //echo base_url('public/img/poster-video.png') ?> "></video>
             </div>
         </div>
 
         <div class="card-videos">
             <h4>Lorem ipsum</h4>
             <div class="video">
-                <video src="" poster=" <?php echo base_url('public/img/poster-video.png') ?> "></video>
+                <video src="" poster=" <?php //echo base_url('public/img/poster-video.png') ?> "></video>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="links-utiles-servicios">
+    <!-- INSERCIÓN VIDEOS DE YOUTUBE -->
+    <!-- <section class="links-utiles-servicios">
         <h3>Links Útiles (VIDEOS DE YOUTUBE)</h3>
 
         <div class="link">
             <a href="#c">
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
-                <!-- <p>Requerimiento sueldos (Iniciar expediente SIGED desde CIDI)</p> -->
                 <h5 href="#c">
                     Página Web <i class='bx bx-world'></i>
                 </h5>
@@ -76,13 +77,12 @@
         <div class="link">
             <a href="#c">
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
-                <!-- <p>Requerimiento sueldos (Iniciar expediente SIGED desde CIDI)</p> -->
                 <h5 href="#c">
                     Página Web <i class='bx bx-world'></i>
                 </h5>
             </a>
         </div>
-    </section>
+    </section> -->
 
 
     <?php

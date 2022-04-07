@@ -107,7 +107,7 @@
     </section>
 
     <section class="depto-servicios">
-        <h3>Subdirección de Infrestuctura Tecnológica de Base</h3>
+        <h3>Subdirección de Infraestuctura Tecnológica de Base</h3>
         <div class="tabla-servicios">
             <div class="cada-servicio">
                 <div class="serv-nombre">Área</div>
@@ -123,17 +123,7 @@
                 <div class="serv-nombre">Operaciones</div>
                 <div class="linea-vert"></div>
                 <div class="serv-descripcion">
-                    <div>Gestión de Hardware/Gestion de VM/Monitoreo y Control</div>
-                </div>
-                
-                <div class="flecha-ver-mas">v</div>
-            </div>
-
-            <div class="cada-servicio">
-                <div class="serv-nombre">Backup</div>
-                <div class="linea-vert"></div>
-                <div class="serv-descripcion">
-                    <div>Backup y Contigencia</div>
+                    <div>Gestión de Hardware/Gestion de VM/Monitoreo y Control / Backup y Contigencia</div>
                 </div>
                 
                 <div class="flecha-ver-mas">v</div>
@@ -162,15 +152,15 @@
     </section>
 
 
-    <section class="organismos">
+    <!-- <section class="organismos">
         <h2>Organismos y Secretarías</h2>
         <div class="cards-organismos">
             <div class="card-organismos">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
                 </div>
-                <!-- <h4>Lorem Ipsum</p> -->
-                <!-- <a href="#c">Ver más</a> -->
+                <h4>Lorem Ipsum</p>
+                <a href="#c">Ver más</a>
             </div>
         </div>
     </section>
@@ -179,37 +169,37 @@
         <div class="cards-organismos">
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
-                <!-- <h4>Lorem Ipsum</p> -->
-                <!-- <a href="#c">Ver más</a> -->
+                <h4>Lorem Ipsum</p>
+                <a href="#c">Ver más</a>
             </div>
 
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
-                <!-- <h4>Lorem Ipsum</p> -->
-                <!-- <a href="#c">Ver más</a> -->
+                <h4>Lorem Ipsum</p>
+                <a href="#c">Ver más</a>
             </div>
 
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
-                <!-- <h4>Lorem Ipsum</p> -->
-                <!-- <a href="#c">Ver más</a> -->
+                <h4>Lorem Ipsum</p>
+                <a href="#c">Ver más</a>
             </div>
 
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
-                <!-- <h4>Lorem Ipsum</p> -->
-                <!-- <a href="#c">Ver más</a> -->
+                <h4>Lorem Ipsum</p>
+                <a href="#c">Ver más</a>
             </div>
         </div>        
-    </section>
+    </section> -->
 
 
     <?php

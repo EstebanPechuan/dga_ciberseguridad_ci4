@@ -52,13 +52,13 @@
                 </a>
             </div>
     </section>
-
-    <section class="noticias-home">
+    <!-- SECCION NOTICIAS -->
+    <!-- <section class="noticias-home">
         <h2>Noticias</h2>
         <div class="cards-noticias">
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia1.png') ?> " alt="Imagen de Noticia">
+                    <img src=" <?php //echo base_url('public/img/noticias/noticia1.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Paso que tiene que dar ante una filtración de datos</h4>
                 <p>Las filtración de datos es uno de los peores problemas a los que se puede enfrentar una empresa. En primer lugar, porque supone q..</p>
@@ -67,7 +67,7 @@
 
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia2.png') ?> " alt="Imagen de Noticia">
+                    <img src=" <?php //echo base_url('public/img/noticias/noticia2.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Ciberataque detiene la producción de troyota</h4>
                 <p>La fragilidad en la cadena de suministros y la producción de vehículos ha vivido uno de sus mayores ejemplos: todas las fábricas ...</p>
@@ -76,7 +76,7 @@
 
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia3.png') ?> " alt="Imagen de Noticia">
+                    <img src=" <?php //echo base_url('public/img/noticias/noticia3.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Chat internos del ransomware Conti se filtran en línea después de declarar su apoyo a la invación Rusa</h4>
                 <p>Los registros del chat pertenecientes al grupo de ransomware Conti se filtró en línea gracias a una aparente fuente interna, q.. </p>
@@ -85,14 +85,14 @@
 
             <div class="card-noticias">
                 <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/noticias/noticia4.png') ?> " alt="Imagen de Noticia">
+                    <img src=" <?php //echo base_url('public/img/noticias/noticia4.png') ?> " alt="Imagen de Noticia">
                 </div>
                 <h4>Ciberguerra Ucrania-Rusia: Los Frentes Digitales</h4>
                 <p>Por David Salces Guillem La incursión del ejército ruso en territorio ucraniano, a finales de la semana pasada, marcó e...</p>
                 <a href="#c">Ver más</a>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="cards-home-tramites">
         <div class="card-home-tramite">

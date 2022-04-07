@@ -501,8 +501,12 @@ body {
 
 .flyer-violencia {
     width: 100%;
+    text-align: center;
 }
 
 .flyer-violencia img {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.25rem!important;
+    vertical-align: center;
 }
