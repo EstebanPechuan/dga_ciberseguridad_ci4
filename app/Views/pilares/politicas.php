@@ -50,7 +50,7 @@
 
 
     <section class="politicas-select" onchange="if((filtro1.value == '') && (filtro2.value == '')){btn_filtrar.classList.add('disable')}else{btn_filtrar.classList.remove('disable')}">
-        <div class="selects">
+        <!-- <div class="selects">
             <p>Politicas</p>
 
             <select name="politicas" id="filtro1">
@@ -73,20 +73,20 @@
                 <option value="Option 4">Option 4</option>
                 <option value="Option 5">Option 5</option>
             </select>
-        </div>
+        </div> -->
 
-        <div class="btn-filtrar">
+        <!-- <div class="btn-filtrar">
             <a href="#c" id="btn_filtrar" class="btn-fill-red disable">
                 Filtrar
                 <svg height="15" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M487.976 0H24.028C2.71 0-8.047 25.866 7.058 40.971L192 225.941V432c0 7.831 3.821 15.17 10.237 19.662l80 55.98C298.02 518.69 320 507.493 320 487.98V225.941l184.947-184.97C520.021 25.896 509.338 0 487.976 0z" fill="#fff"/></svg>
             </a>
-        </div>
+        </div> -->
     </section>
     
 
-    <div class="alert-blue">
+    <!-- <div class="alert-blue">
         <p>Selecciona Proceso de Negocio o Tipo para ver el catálogo de aplicaciones y servicios</p>
-    </div>
+    </div> -->
 
 
     <section class="tabla-politicas">
@@ -99,9 +99,9 @@
             </div>
 
             <div class="tabla-row">
-                <div class="columna-1">Política de Wifi</div>
+                <div class="columna-1">Política de WiFi</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="#c" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
@@ -110,7 +110,7 @@
             <div class="tabla-row">
                 <div class="columna-1">Política de Contraseñas</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="#c" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
@@ -119,7 +119,7 @@
             <div class="tabla-row">
                 <div class="columna-1">Política de Protección de Datos Personales</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="<?php echo base_url('public/politicas/Política proteccion de datos.pdf') ?>" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
@@ -128,25 +128,25 @@
             <div class="tabla-row">
                 <div class="columna-1">Políticas de Control de Cambios</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="<?php echo base_url('public/politicas/Política de control de cambios.pdf') ?>" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
             </div>
 
             <div class="tabla-row">
-                <div class="columna-1">Política de Respuesta de Incidientes</div>
+                <div class="columna-1">Política de Respuesta de Incidentes</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="<?php echo base_url('public/politicas/Política de Respuesta Ante Incidentes.pdf') ?>" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
             </div>
 
             <div class="tabla-row">
-                <div class="columna-1">Política de Acceso a Infrestructura  TI</div>
+                <div class="columna-1">Política de Acceso a Infraestructura  TI</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="<?php echo base_url('public/politicas/Política acceso y uso de infraestructura TI.pdf') ?>" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
@@ -155,7 +155,7 @@
             <div class="tabla-row">
                 <div class="columna-1">Gestión de Archivos</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="#c" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
@@ -164,7 +164,7 @@
             <div class="tabla-row">
                 <div class="columna-1">Política de Acceso  al Data Center</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="<?php echo base_url('public/politicas/Política Acceso Data Center.pdf') ?>" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
@@ -173,7 +173,16 @@
             <div class="tabla-row">
                 <div class="columna-1">Política de Uso de Internet y correo Electrónico</div>
                 <div class="columna-2">
-                    <a href="#c">
+                    <a href="<?php echo base_url('public/politicas/Política uso de internet y correo electronico.pdf') ?>" target="_blank">
+                        <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="tabla-row">
+                <div class="columna-1">Política de VPN</div>
+                <div class="columna-2">
+                    <a href="<?php echo base_url('public/politicas/Política de VPN.pdf') ?>" target="_blank">
                         <img src=" <?php echo base_url('public/img/iconos/descarga.png') ?> " alt="">
                     </a>
                 </div>
