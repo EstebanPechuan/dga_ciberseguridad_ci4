@@ -72,6 +72,19 @@
     .home-hero-submit div p {
         display: none;
     }
+    .nav-pilares .cards-pilares {
+        flex-wrap: wrap;
+    }
+    .nav-pilares .cards-pilares .card-pilares {
+        width: 100%;
+    }
+    .nav-pilares .cards-pilares .card-pilares:hover,
+    .nav-pilares .cards-pilares .card-pilares.pilar-active {
+        width: 100%;
+    }
+    .nav-pilares .cards-pilares .card-pilares a {
+        font-size: 14px;
+    }
     .tabla {
         overflow-x: scroll;
     }
