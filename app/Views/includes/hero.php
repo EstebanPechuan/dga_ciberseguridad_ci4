@@ -1,4 +1,4 @@
-<section class="hero" style=" <?php if($hero == true) { echo 'display: block;';} else {echo 'display: none;';} ?>" >
+<section class="hero" style=" <?php if($hero == true) { echo 'display: flex;';} else {echo 'display: none;';} ?>" >
     <div class="">
         <h2>Bienvenid@ a la</h2>
         <h1>Dirección de Ciberseguridad</h1>

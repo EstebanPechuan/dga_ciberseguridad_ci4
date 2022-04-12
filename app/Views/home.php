@@ -107,7 +107,7 @@
         </div>
 
         <div class="card-home-tramite">
-            <a href="#c" target="_blank">
+            <a href="https://tramite.sanjuan.gob.ar/" target="_blank">
                 <div class="card-home-img">
                     <img src=" <?php echo base_url('public/img/iconos/hands.png') ?> " alt="Icono Manos">
                 </div>
@@ -118,7 +118,7 @@
         </div>
 
         <div class="card-home-tramite">
-            <a href="#c" target="_blank">
+            <a href="https://hacienda.sanjuan.gob.ar/#dnwvZ29iaWVybm8vcmVkbWluZS9jb25zdWx0YXMvcy9fZl9CMzcxOTJCQjMxMzM0NDQ1QjU0OEQ1QjgyQ0Y4OEIyQi5odG1sfF92YWxpZGFjaW9uZXN8fHx8" target="_blank">
                 <div class="card-home-img">
                     <img src=" <?php echo base_url('public/img/iconos/chats.png') ?> " alt="Icono Conversación">
                 </div>
@@ -129,7 +129,7 @@
         </div>
 
         <div class="card-home-tramite">
-            <a href="#c" target="_blank">
+            <a href="https://compraspublicas.sanjuan.gob.ar/" target="_blank">
                 <div class="card-home-img">
                     <img src=" <?php echo base_url('public/img/iconos/document-mouse.png') ?> " alt="Icono Documento">
                 </div>
